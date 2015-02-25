@@ -6,4 +6,4 @@ setup(name='Bowling',
       author='Zaytsev Dmitriy',
       license="BSD",
       author_email='gward@python.net',
-      packages=['bowling', 'tests'])
+      packages=['bowling', 'bowling.tests'])
